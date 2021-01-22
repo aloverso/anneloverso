@@ -1,0 +1,47 @@
+:root
+{
+    --dark:     #264653;
+    --darker1:  #162A31;
+    --light:    #ccc;
+    --lighter-1: #bbb;
+    --lighter1: #ddd;
+    --red:      #e76f51;
+    --green:    #2a9d8f;
+    --orange:   #f4a261;
+    --yellow:   #e9c46a;
+    --yellow-1: #faf3e1;
+}
+
+.site-body-left-column {
+	font-family: 'Open Sans', serif !important;
+	background-color: var(--dark) !important;
+	color: var(--light) !important;
+}
+
+.site-body-left-column:before {
+    background-color: var(--dark) !important;
+}
+
+.nav-view-outer .tree-item-self {
+	color: var(--light) !important;
+}
+
+.nav-view-outer .tree-item-self.mod-active {
+    background-color: var(--green) !important;
+    color: var(--lighter1) !important;
+}
+
+.nav-view-outer .tree-item-self:hover {
+    background-color: var(--green) !important;
+    color: var(--lighter1) !important;
+}
+
+.markdown-preview-view {
+	font-size: 17px !important;
+    font-family: 'Merriweather', sans-serif !important;
+    line-height: 31.5px !important;
+}
+
+.markdown-preview-view .tag:hover {
+    color: var(--lighter1) !important;
+}

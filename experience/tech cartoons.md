@@ -1,0 +1,3 @@
+As an artist, creative person, and software engineer, I like to combine these passions into tech cartoons. Check out a couple:
+
+coming soon...

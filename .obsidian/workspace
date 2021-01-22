@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "f7ea601729d9b6a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "42932d1cddc4f14c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "facilitation.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c36ee7a82796484",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b6e04adfc18b831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c8bbe7a4dfa00e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c9c2ca422d31b52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mysql",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307
+  },
+  "right": {
+    "id": "91f1e921f81c776f",
+    "type": "split",
+    "children": [
+      {
+        "id": "32fdea935569cd9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88dbb579d6adb4bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "facilitation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "facilitation.md",
+    "D&F and Act.md",
+    "Untitled.md",
+    "assets/favicon-32.png",
+    "projects/RPG dice roller.md",
+    "projects/best of @dog_rates.md",
+    "projects/arcade tweeter.md",
+    "experience/tech cartoons.md",
+    "experience/Speaking & Writing.md",
+    "experience/Tech Cartoons.md"
+  ]
+}
