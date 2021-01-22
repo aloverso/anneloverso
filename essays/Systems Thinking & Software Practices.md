@@ -1,4 +1,4 @@
-(written January 2020) [Published on VMware Tanzu blog](https://tanzu.vmware.com/content/blog/systems-thinking-pivotal-act-tool-software-project)
+*(originated Jan 2020, last update Nov 2020)* [Published on VMware Tanzu blog](https://tanzu.vmware.com/content/blog/systems-thinking-pivotal-act-tool-software-project)
 
 A system is not just a collection of things. In the words of systems thought leader Donella Meadows, it is "an interconnected set of elements that is coherently organized in a way that achieves something."" Put another way, a system has elements, relationships, and a purpose.
 

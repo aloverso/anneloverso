@@ -1,4 +1,4 @@
-(written October 2020)
+*(originated Oct2020)*
 
 > what would it mean to desire a future that we can't even imagine but that we are told couldn't ever exist?
 
@@ -10,7 +10,7 @@ Why can’t we imagine the future we desire?  Our imagining is one of the most p
 
 This forced pragmatism hinders our imagination.  We ground ourselves.  We suppress imaginations because we don’t have all the answers.  We desire something, but we can’t even imagine what it could be.  Maybe we should be what they call childish - that is, starry-eyed, quixotic, playing out fantasies.  Imagining.  Fictionalizing.  Dreaming.  
 
-Creating fiction is one of the most powerful things that a person or group can do.  As a person, fictions allow exploration beyond the currently available.  As a group, it binds present togetherness into a what-could-be-ness; group fictive storytelling is a process of co-creation.  The confines of storytelling are such that even when an individual group member is destructive ("in the next chapter of the story we’re writing together, I am going to kill the character you created"), the end product is still constructive, because the collective story is being built and spawned and coalesced on top of each development of any individual.
+Creating fiction is one of the most powerful things that a person or group can do.  As a person, fictions allow exploration beyond the currently available.  As a group, it binds present togetherness into a what-could-be-ness; group fictive storytelling is a process of [[co-creation]].  The confines of storytelling are such that even when an individual group member is destructive ("in the next chapter of the story we’re writing together, I am going to kill the character you created"), the end product is still constructive, because the collective story is being built and spawned and coalesced on top of each development of any individual.
 
 Fictive storycreation allows one to speculate on the what-could-be and the why-it-might be.  Worldbuilding as a practice and as an art is one of understanding the deep intrinsic links between people, groups of people, and settings, and cultures, and how it might become something important.  Fictive storycreation is an exercise in letting the mind run wild with what-could-be without getting bogged down in the what-cannot-be and what-should-have-been.  When we allow our minds to run free and unconstrained, we can build and imagine and desire a future regardless of what we’re told is "possible".  Regardless of how people "intrinsically are".  Regardless of how structures "need to be like this".  Storytelling protects imaginative exploration from the need for perfection and actionability to what has been done before.
 

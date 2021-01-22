@@ -1,4 +1,4 @@
-(written March 2017)
+*(originated Mar 2017)*
 
 I love books.  I always have.  When I was a toddler, my parents were thrilled to find that when I woke up at ungodly early hours, they could keep me from wandering around the house waking them up by placing a pile of books at the foot of my bed, and I would sit quietly reading them all morning.
 

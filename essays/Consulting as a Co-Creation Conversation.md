@@ -1,4 +1,4 @@
-(written June 2019) [published on VMware Tanzu blog](https://tanzu.vmware.com/content/blog/consulting-as-a-co-creation-conversation)
+*(originated Jun 2019)* [published on VMware Tanzu blog](https://tanzu.vmware.com/content/blog/consulting-as-a-co-creation-conversation)
 
 [[consulting|Consulting]] is a paradox of power dynamics. By defining a consultant as one who guides, teaches, and works alongside clients to make a sustainable change so that they themselves are no longer needed, it becomes necessary to analyze the structure of the power relations that exist. How does one offer expertise without being overpowering?  Overpowering creates dependence, and our goal is to drive client independence. What does it mean to be empowering in the context of consulting?
 
@@ -29,7 +29,7 @@ The first step to achieving this collaboration requires being humble. Sure, I ha
 
 Therefore, in order for a consulting engagement to be successful, it must be a collaborative experience that draws upon the expertise of both consultant and client. To me, this requires a shift in mindset from transmission of knowledge (from consultant to client) to something else.
 
-### The Road To Co-Creation
+### The Road To [[Co-Creation]]
 Transmission means leveraging the established power of the consultancy role. It says: "I am the expert and for that reason, you should listen to my opinion." It reinforces the power dynamic. It turns our clients into passive receptacles for our opinions about pairing, testing, or product principles.
 
 That may not sound so bad, you might think. Isn’t that what we’re hired to do? To teach these principles which we know and they do not? No, because our goal is not to dump a textbook’s worth of information about [[test-driven development]] and [[dependency inversion]] onto our clients.  

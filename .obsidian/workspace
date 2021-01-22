@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "facilitation.md",
+            "file": "essays/How GMing made me better at running meetings.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mysql",
+                "query": "outcome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "facilitation.md",
+                "file": "essays/How GMing made me better at running meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "facilitation.md",
-    "D&F and Act.md",
-    "Untitled.md",
-    "assets/favicon-32.png",
-    "projects/RPG dice roller.md",
-    "projects/best of @dog_rates.md",
-    "projects/arcade tweeter.md",
-    "experience/tech cartoons.md",
-    "experience/Speaking & Writing.md",
-    "experience/Tech Cartoons.md"
+    "essays/How GMing made me better at running meetings.md",
+    "principles/outcomes over outputs.md",
+    "experience/consulting.md",
+    "principles/co-creation.md",
+    "essays/Fictive Futures - co-incidence festival 2021.md",
+    "essays/Teaching Philosophy.md",
+    "essays/Books, Depositories, and Access to education.md",
+    "essays/Consulting as a Co-Creation Conversation.md",
+    "essays/Educational Philosophy manifesto.md",
+    "essays/Systems Thinking & Software Practices.md"
   ]
 }

@@ -1,4 +1,4 @@
-(written May 2017)
+*(originated May 2017)*
 
 There are a lot of problems people point to in this world.  Systematic inequality.  Climate change.  Capitalistic exploitation of people and natural resources.  People also point to problems in the education system.  Failing schools, failing teachers, failing students.  It’s easy to get bogged down in it, and depressed by it, and forget about all the people working to do good.  Looking at that, I think that if I had to sum up my design manifesto of education in two words it would be ** critical optimism**.
 
